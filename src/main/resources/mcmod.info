@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ServerSidedTweaks",
+  "name": "ServerSidedTweaks",
+  "description": "ServerSidedTweaks",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Wasliebob"],
+  "credits": "diesieben07 for helping a lot with netty and packet interception",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
